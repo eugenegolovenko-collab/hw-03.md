@@ -18,18 +18,17 @@
 
 `Решение`
 
-Создан шаблон `Test.Lab_CPU_RAM`, содержащий два элемента данных:
+Создан шаблон `HW-2_3_CPU_RAM`, содержащий два элемента данных:
 - Загрузка CPU (%) - `system.cpu.load[percpu,avg1]`
 - Загрузка RAM (%) - `vm.memory.size[pused]`
 
-screenshot
-
+<img width="1423" height="726" alt="Zabbix_temp_CPU_RAM" src="https://github.com/user-attachments/assets/c9805ca3-d290-4ebf-a451-863150e1ee3c" />
 
 ---
 
 ### Задание 2
 
-`Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>.`
+`Добавьте в Zabbix два хоста и задайте им имена, например <фамилия и инициалы-1> и <фамилия и инициалы-2>.`
 
 `Процесс выполнения`
 
@@ -61,7 +60,7 @@ screenshot
 
 `Решение 2-3:`
 
-screenshots
+<img width="1400" height="685" alt="Zabbix_2_tepmlate_3" src="https://github.com/user-attachments/assets/b44ea7b2-9f90-425a-aab7-e370b40e2a55" />
 
 ---
 
@@ -80,5 +79,6 @@ screenshots
 
 `Cкриншот дашборда с названием «Задание 4»:`
 
+<img width="1916" height="1056" alt="Zabbix_dashboard_custom" src="https://github.com/user-attachments/assets/09f7552f-f68f-4936-b38e-d04aeecb77eb" />
 
-
+---
