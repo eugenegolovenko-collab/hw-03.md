@@ -22,7 +22,7 @@
 - Загрузка CPU (%) - `system.cpu.load[percpu,avg1]`
 - Загрузка RAM (%) - `vm.memory.size[pused]`
 
-<img width="1423" height="726" alt="Zabbix_temp_CPU_RAM" src="https://github.com/user-attachments/assets/c9805ca3-d290-4ebf-a451-863150e1ee3c" />
+<img width="1419" height="720" alt="Zabbix_template_fix1" src="https://github.com/user-attachments/assets/32a5b1ad-2469-4acb-b8a2-8b3e054ce6d9" />
 
 ---
 
@@ -60,7 +60,7 @@
 
 `Решение 2-3:`
 
-<img width="1400" height="685" alt="Zabbix_2_tepmlate_3" src="https://github.com/user-attachments/assets/b44ea7b2-9f90-425a-aab7-e370b40e2a55" />
+<img width="1417" height="674" alt="Zabbix_2 хоста2" src="https://github.com/user-attachments/assets/ddf673f1-8e2d-4f8b-96af-b3338e01aa80" />
 
 ---
 
@@ -80,5 +80,6 @@
 `Cкриншот дашборда с названием «Задание 4»:`
 
 <img width="1916" height="1056" alt="Zabbix_dashboard_custom" src="https://github.com/user-attachments/assets/09f7552f-f68f-4936-b38e-d04aeecb77eb" />
+<img width="1381" height="704" alt="Zabbix_dashboard4" src="https://github.com/user-attachments/assets/618f0886-9e5b-4b39-ada0-98cbedc62369" />
 
 ---
